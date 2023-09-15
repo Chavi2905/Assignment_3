@@ -1,0 +1,7 @@
+C:\Users\harshit\source\repos\Assignment3\Que4\bin\Debug\Que4.exe.config
+C:\Users\harshit\source\repos\Assignment3\Que4\bin\Debug\Que4.exe
+C:\Users\harshit\source\repos\Assignment3\Que4\bin\Debug\Que4.pdb
+C:\Users\harshit\source\repos\Assignment3\Que4\obj\Debug\Que4.csproj.AssemblyReference.cache
+C:\Users\harshit\source\repos\Assignment3\Que4\obj\Debug\Que4.csproj.CoreCompileInputs.cache
+C:\Users\harshit\source\repos\Assignment3\Que4\obj\Debug\Que4.exe
+C:\Users\harshit\source\repos\Assignment3\Que4\obj\Debug\Que4.pdb
