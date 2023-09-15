@@ -1,0 +1,2 @@
+C:\Users\harshit\source\repos\Assignment3\Que5\obj\Debug\Que5.csproj.AssemblyReference.cache
+C:\Users\harshit\source\repos\Assignment3\Que5\obj\Debug\Que5.csproj.CoreCompileInputs.cache
